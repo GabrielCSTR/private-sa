@@ -1,6 +1,6 @@
 
 # Setup Docker Para Projetos Laravel
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+[Desenvolvido por Zhyon Hosting](https://zyonhosting.com.br)
 
 ### Passo a passo
 Clone Repositório
@@ -75,4 +75,4 @@ php artisan key:generate
 
 
 Acessar o projeto
-[http://localhost:8989](http://localhost:8989)
+[http://localhost](http://localhost)
